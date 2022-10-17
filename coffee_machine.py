@@ -20,6 +20,8 @@ class CoffeeMachine:
                 self.print_info(all_amount)
             elif action == "exit":
                 break
+            else:
+                print("Invalid input, try one more time!")
 
     def print_info(self, levels):
         print(f"The coffee machine has: ")
