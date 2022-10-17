@@ -2,7 +2,7 @@
  
 Program resembling basic functions of the coffee machine.
 
-Performing simle actions by typing text commands.
+Performing simple actions by typing text commands.
 
 **BUY** = picking coffee from user input and "making coffee" by using needed components (error printed if refill needed)
 
