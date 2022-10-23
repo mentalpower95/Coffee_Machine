@@ -8,6 +8,6 @@ Performing simple actions by typing text commands.
 
 **REFILL** = adding user specified amounts of components to machine
 
-**TAKE** = money wwithdrawal
+**TAKE** = money withdrawal
 
 **REMAINING** = printing info about level of each coffee compound
